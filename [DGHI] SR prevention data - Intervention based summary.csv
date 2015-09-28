@@ -1,0 +1,20 @@
+intervention_type,author,country,Legislation,Speed_control,Public_awareness,Enforcement,Road_improvement,pedestrians,bycyclists,motorcyclists,overall_crashes,overall_drivers,improved_laws,higher_penalties,death_reduction,crashes_reduction,significant_improve_in_time,enforcement_training,helmet_use_law,RTI_reduction,ER_admission_LOS_reduction,SevereDisability_reduction,Non_significant_death_reduction,Non_significant_RTI_reduction,Non_significant_crash_reduction,Speed_limit,Rumble_strips,Education,Community_comparison,Non_significant_alcoholuse_reduction,Road_pavement,RTI_increased,Non_significant_timetrend_decrease,BAClevel_reduction,Signs_and_midia
+Legislation,"Abegaz et al., 2014",Ethiopia,1,,,,,,,,,1,1,1,1,1,1,0,,,,,,,,,,,,,,,,,
+Legislation,"Andreuccetti et al., 2011",Brazil,1,,,,,,,,1,,,,1,,,,,1,,,,,,,,,,,,,,1,
+Public Awareness,"Bacchieri et al., 2010",Brazil,,,1,,,,1,,,,,,,,,,,,,,,,1,,,1,,,,,,,
+Enforcement,"Bishai et al., 2008",Uganda,,,,1,,,,,1,,0,0,1,0,0,1,,,,,,,,,,,,,,,,,
+Enforcement,"Chandran et al., 2014",Mexico,,,,1,,,,,,1,,,,1,,1,,,,,1,1,,,,,1,,,,,,
+Public Awareness,"Chandran et al., 2014",Mexico,,,1,,,,,,,1,,,,1,,1,,,,,1,1,,,,1,1,,,,,,1
+Legislation,"Espitia-Hardeman et al, 2008",Colombia,1,,,,,,,1,,,1,1,1,,1,,1,,,,,,,,,,,,,,,,
+Legislation,"Farage et al., 2002",Brazil,1,1,,,,,,,,1,1,,,,,,,1,,,,,,1,,,,,,,,,
+Legislation,"Figueiredo et al., 2001",Brazil,1,,,,,,,,,1,1,1,1,1,,,,,1,,,,,,,,,,,,,,
+Legislation,"Gómez-Garcia, Pérez-Nuñes & Hidalgo-Solórzano, 2014",Mexico,1,,,,,,,,1,,1,,1,1,,,,,,,1,,,,,,,,,,1,,
+Enforcement,"Guanche Garcell et al., 2008",Cuba,,,,1,,,,1,,1,,,,1,,,,1,,1,,,,,,,,,,,,,
+Legislation,"Ichikawa, Chadbunchachai & Marui, 2003",Thailand,1,,,,,,,1,,,,,0,,,,1,1,,,1,,,,,,,,,,,,
+Legislation,"Maffei de Andrade et al., 2008",Brazil,1,,,,,,,,1,,1,,1,,,,,,,,,,,,,,,,,,1,,
+Speed Control,"Nadesan-Reddy & Knight, 2013",South Africa,,1,,,,1,,,,,,,1,1,,,,,,,,,,,1,,,,,,,,
+Legislation,"Passmore et al., 2010",Vietnam,1,,,,,,,1,,,,,1,,,,1,1,,,,,,,,,,,,,,,
+Public Awareness,"Rahimi-Movaghar, 2010",Iran,,,1,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,
+Education,"Salvarani et al., 2009",Brazil,,,1,,,1,1,1,1,1,,,,,,,,1,,1,,,,,,1,,,,,,,1
+Public Awareness,"Swaddiwudhipong et al., 1998",Thailand,,,1,,,,,1,,,,,,,,,,1,,,,,,,,1,1,1,,,,,
+Road Improvement,"Zimmerman et al., 2014",Tanzania,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,
